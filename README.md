@@ -23,6 +23,10 @@ A modern and secure password generator to create strong passwords instantly.
 <img width="1822" height="897" alt="Screenshot 2026-05-04 144614" src="https://github.com/user-attachments/assets/dd42af7e-8ddf-4c0a-ab81-b5c3fb9459a0" />
 
 
+🌐 Live Demo
+
+https://swangidubey2006.github.io/KeyGenX/
+
 
 👩‍💻 Author
 
